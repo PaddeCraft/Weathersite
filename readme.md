@@ -6,6 +6,9 @@ It is not the newest, and so is the web overview.
 That is the reason I made this weather dashboard,
 witch is simple and universally usable.
 
+## Preview
+[https://rawcdn.githack.com/paddecraft/Weathersite/master/wetter.html](Here) is a preview using randomly generated data.
+
 ## Dev info
 To change the data source, go to the `static/js/data.js` file,
 and change the respective functions. If you want to change
