@@ -7,7 +7,7 @@ That is the reason I made this weather dashboard,
 witch is simple and universally usable.
 
 ## Preview
-[https://rawcdn.githack.com/paddecraft/Weathersite/master/wetter.html](Here) is a preview using randomly generated data.
+[https://paddecraft.github.io/Weathersite/wetter.html](Here) is a preview using randomly generated data.
 
 ## Dev info
 To change the data source, go to the `static/js/data.js` file,
