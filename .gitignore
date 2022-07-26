@@ -1,0 +1,6 @@
+# Backups, other versions
+*.js.*
+orig
+
+# Generated stuff
+node_modules
